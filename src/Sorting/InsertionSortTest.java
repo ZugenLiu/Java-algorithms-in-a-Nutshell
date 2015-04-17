@@ -8,8 +8,7 @@ import static org.junit.Assert.assertArrayEquals;
 public class InsertionSortTest {
 
     @Test
-    public void testConcatenate() {
-
+    public void testSortMethod() {
 
         int[] a = {1, 4, 8, 9, 11, 15, 7, 12, 13, 6};
         a = InsertionSort.sort(a);

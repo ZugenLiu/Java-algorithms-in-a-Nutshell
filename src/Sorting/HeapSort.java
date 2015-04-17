@@ -1,8 +1,5 @@
 package Sorting;
 
-/**
- * Created by USER on 16.04.2015.
- */
 public class HeapSort {
     public static int[] sort(int[] a) {
         buildHeap(a);
