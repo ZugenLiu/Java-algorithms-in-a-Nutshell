@@ -1,4 +1,4 @@
-package Sorting;
+package sorting;
 
 public class HeapSort {
     public static int[] sort(int[] a) {

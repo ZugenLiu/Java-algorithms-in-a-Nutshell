@@ -1,4 +1,4 @@
-package Searching;
+package searching;
 
 /**
  * Binary Search given a pre-sorted array of the parameterized type.
